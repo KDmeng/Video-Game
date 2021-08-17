@@ -12,10 +12,12 @@
 		position:relative;	
 	}
 
-	.image{
+	.pic{
 		position:absolute;
 		right:10px;
 		top:10px;
+		width: 200px;
+    	height: auto;
 	}
 
 </style>

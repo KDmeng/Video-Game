@@ -24,7 +24,7 @@
 				"Company":" InnerSloth LLC",
 				"Year":2018,
 				"Rating":" PEGI 7",
-				"Image":"Amoung-Us.png"
+				"Image":"Amoung-Us.jpg"
 			  }, 
 			  {
 				"Title":"Mortal Kombat 11",
