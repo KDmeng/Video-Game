@@ -12,7 +12,7 @@
 		position:relative;	
 	}
 
-	.pic{
+	.image{
 		position:absolute;
 		right:10px;
 		top:10px;
