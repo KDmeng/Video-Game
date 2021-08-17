@@ -16,8 +16,11 @@
 		position:absolute;
 		right:10px;
 		top:10px;
-		width: 100%;
-    	height: auto;
+	}
+
+	.pic img{
+		max-width: 50px;
+		
 	}
 
 </style>
