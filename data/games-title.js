@@ -2,45 +2,48 @@
 {
 	"title": "Video Games by Year",
 	"games":[
-              {
-				"Title":"Counter-Strike Global Offensive",
-				"Genre":"Tactical Shooter",
-				"Company":"Valve",
-				"Year":2012,
-				"Rating":"M",
-				"Image":"counter-strike-global-offensive.jpg"
+
+			  {
+				"Title":"Amoung Us",
+				"Genre":"Multiplayer",
+				"Company":" InnerSloth LLC",
+				"Year":2018,
+				"Rating":" PEGI 7",
+				"Image":"Amoung-Us.png"
 			  },
 			  {
-				"Title":"Mario Cart",
-				"Genre":"Racing",
-				"Company":"Nintendo",
-				"Year":1992,
-				"Rating":"E",
-				"Image":"mario-cart.jpg"
+				"Title":"Assassin's Creed Valhalla",
+				"Genre":"Single-player",
+				"Company":"Ubisoft Montreal",
+				"Year":2020,
+				"Rating":"M",
+				"Image":"Assassin's-Creed-Valhalla.jpg"
 			  }, 
               {
-				"Title":"Minecraft",
-				"Genre":"Sandbox",
-				"Company":"Mojang",
-				"Year":2011,
-				"Rating":"E",
-				"Image":"minecraft.jpg"
+				"Title":"Fortnite",
+				"Genre":"Battle royale game",
+				"Company":"Epic Games",
+				"Year":2017,
+				"Rating":"PEGI",
+				"Image":"Fortnite.webp"
 			  },
-              {
-				"Title":"Portal",
-				"Genre":"Puzzle",
-				"Company":"Valve",
-				"Year":2007,
-				"Rating":"T",
-				"Image":"portal.jpg"
+			  {
+				"Title":"Grand Theft Auto V",
+				"Genre":"Thrid-person shooter",
+				"Company":"Rockstar Games",
+				"Year":2013,
+				"Rating":"R18+",
+				"Image":"Grand-Theft-Auto-V.png"
 			  }, 
               {
-				"Title":"Sonic the Hedgehog",
-				"Genre":"Platformer",
-				"Company":"Sega",
-				"Year":1991,
-				"Rating":"E",
-				"Image":"sonic-the-hedgehog.jpg"
+				"Title":"Mortal Kombat 11",
+				"Genre":"Fighting",
+				"Company":"NetherRealm Studios",
+				"Year":2019,
+				"Rating":"M",
+				"Image":"Mortal-Kombat-11.png"
 			  }
+              
+              
 	]
 }
