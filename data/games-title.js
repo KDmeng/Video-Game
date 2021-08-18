@@ -4,7 +4,7 @@
 	"games":[
 
 			  {
-				"Title":"Amoung Us",
+				"Title":"Among Us",
 				"Genre":"Multiplayer",
 				"Company":" InnerSloth LLC",
 				"Year":2018,

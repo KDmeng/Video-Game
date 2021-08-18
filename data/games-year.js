@@ -19,12 +19,12 @@
 				"Image":"Fortnite.webp"
 			  }, 
 			  {
-				"Title":"Amoung Us",
+				"Title":"Among Us",
 				"Genre":"Multiplayer",
 				"Company":" InnerSloth LLC",
 				"Year":2018,
 				"Rating":" PEGI 7",
-				"Image":"Amoung-Us.jfif"
+				"Image":"Among-Us.jpg"
 			  }, 
 			  {
 				"Title":"Mortal Kombat 11",
