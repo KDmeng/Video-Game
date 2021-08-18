@@ -9,7 +9,7 @@
 				"Company":" InnerSloth LLC",
 				"Year":2018,
 				"Rating":" PEGI 7",
-				"Image":"Amoung-Us.jpg"
+				"Image":"Among-Us.jpg"
 			  },
 			  {
 				"Title":"Assassin's Creed Valhalla",
