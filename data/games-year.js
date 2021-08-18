@@ -2,6 +2,31 @@
 {
 	"title": "Video Games by Year",
 	"games":[
+
+			  {
+				"Title":"Tetris",
+				"Genre":"Single-player",
+				"Company":"Game Boy",
+				"Year":1984,
+				"Rating":"E",
+				"Image":"Tetris.jpg"
+			  },
+			  {
+				"Title":"Super Mario 64",
+				"Genre":"Platform",
+				"Company":" Nintendo",
+				"Year":1996,
+				"Rating":"E",
+				"Image":"Super-Mario-64.png"
+			  }, 
+			  {
+				"Title":"Roblox",
+				"Genre":"Single-player",
+				"Company":"Roblox Corporation",
+				"Year":2006,
+				"Rating":"E",
+				"Image":"Roblox.jpg"
+			  },
 			  {
 				"Title":"Grand Theft Auto V",
 				"Genre":"Thrid-person shooter",
@@ -9,6 +34,14 @@
 				"Year":2013,
 				"Rating":"R18+",
 				"Image":"Grand-Theft-Auto-V.png"
+			  },
+			  {
+				"Title":"Rocket League",
+				"Genre":"Single-player",
+				"Company":"Psyonix",
+				"Year":2015,
+				"Rating":"E",
+				"Image":"Rocket-League.jpg"
 			  },
 			  {
 				"Title":"Fortnite",
@@ -33,13 +66,22 @@
 				"Year":2019,
 				"Rating":"M",
 				"Image":"Mortal-Kombat-11.png"
-			  },{
+			  },
+			  {
 				"Title":"Assassin's Creed Valhalla",
 				"Genre":"Single-player",
 				"Company":"Ubisoft Montreal",
 				"Year":2020,
 				"Rating":"M",
 				"Image":"Assassin's-Creed-Valhalla.jpg"
+			  },
+			  {
+				"Title":"Returnal",
+				"Genre":"Single-player",
+				"Company":" Roguelike",
+				"Year":2021,
+				"Rating":"PEGI 16",
+				"Image":"Returnal.png"
 			  }
 	]
 }
